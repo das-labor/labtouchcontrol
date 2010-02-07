@@ -20,6 +20,7 @@ lcd-controller/fonts/font_small6.h -text
 lcd-controller/fonts/font_uni53.c -text
 lcd-controller/fonts/font_uni53.h -text
 lcd-controller/foo.txt -text
+lcd-controller/fuses.txt -text
 lcd-controller/graphics.c -text
 lcd-controller/graphics.h -text
 lcd-controller/gui.c -text
@@ -29,6 +30,10 @@ lcd-controller/lcd_hardware.c -text
 lcd-controller/lcd_hardware.h -text
 lcd-controller/main.c -text
 main-controller/Makefile -text
+main-controller/dc_com.c -text
+main-controller/dc_com.h -text
 main-controller/gui.c -text
 main-controller/gui.h -text
 main-controller/main.c -text
+main-controller/touchscreen.c -text
+main-controller/touchscreen.h -text
