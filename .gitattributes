@@ -23,8 +23,6 @@ lcd-controller/foo.txt -text
 lcd-controller/fuses.txt -text
 lcd-controller/graphics.c -text
 lcd-controller/graphics.h -text
-lcd-controller/gui.c -text
-lcd-controller/gui.h -text
 lcd-controller/laborlogo.c -text
 lcd-controller/lcd_hardware.c -text
 lcd-controller/lcd_hardware.h -text
