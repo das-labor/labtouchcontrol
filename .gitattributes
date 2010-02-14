@@ -29,6 +29,9 @@ lcd-controller/lcd_hardware.h -text
 lcd-controller/main.c -text
 main-controller/Makefile -text
 main-controller/calibrate_touch.c -text
+main-controller/can_handler.c -text
+main-controller/can_handler.h -text
+main-controller/config.h -text
 main-controller/dc_com.c -text
 main-controller/dc_com.h -text
 main-controller/gui.c -text
