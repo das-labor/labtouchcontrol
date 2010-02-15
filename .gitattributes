@@ -1,6 +1,7 @@
 * text=auto !eol
 include/dc_commands.h -text
 lcd-controller/Makefile -text
+lcd-controller/bmp/hypnotoad1.bmp -text
 lcd-controller/com.c -text
 lcd-controller/com.h -text
 lcd-controller/draw_pixmap.c -text
@@ -23,6 +24,8 @@ lcd-controller/foo.txt -text
 lcd-controller/fuses.txt -text
 lcd-controller/graphics.c -text
 lcd-controller/graphics.h -text
+lcd-controller/hypnotoad.c -text
+lcd-controller/hypnotoad_data.c -text
 lcd-controller/laborlogo.c -text
 lcd-controller/lcd_hardware.c -text
 lcd-controller/lcd_hardware.h -text
