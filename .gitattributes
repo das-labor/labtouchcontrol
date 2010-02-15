@@ -26,6 +26,7 @@ lcd-controller/fuses.txt -text
 lcd-controller/graphics.c -text
 lcd-controller/graphics.h -text
 lcd-controller/hypnotoad.c -text
+lcd-controller/hypnotoad.h -text
 lcd-controller/hypnotoad_data.c -text
 lcd-controller/laborlogo.c -text
 lcd-controller/lcd_hardware.c -text
@@ -33,6 +34,7 @@ lcd-controller/lcd_hardware.h -text
 lcd-controller/main.c -text
 main-controller/Makefile -text
 main-controller/calibrate_touch.c -text
+main-controller/calibrate_touch.h -text
 main-controller/can_handler.c -text
 main-controller/can_handler.h -text
 main-controller/config.h -text
