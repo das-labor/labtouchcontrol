@@ -4,6 +4,7 @@ lcd-controller/Makefile -text
 lcd-controller/bmp/hypnotoad1.bmp -text
 lcd-controller/com.c -text
 lcd-controller/com.h -text
+lcd-controller/config.h -text
 lcd-controller/draw_pixmap.c -text
 lcd-controller/draw_pixmap.h -text
 lcd-controller/fonts/font.h -text
