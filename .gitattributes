@@ -1,5 +1,6 @@
 * text=auto !eol
 include/dc_commands.h -text
+include/icon.h -text
 lcd-controller/Makefile -text
 lcd-controller/bmp/hypnotoad1.bmp -text
 lcd-controller/com.c -text
@@ -42,6 +43,18 @@ main-controller/dc_com.c -text
 main-controller/dc_com.h -text
 main-controller/gui.c -text
 main-controller/gui.h -text
+main-controller/gui_button.c -text
+main-controller/gui_container.c -text
+main-controller/icons/escape.bmp -text
+main-controller/icons/escape_icon.c -text
+main-controller/icons/main.bmp -text
+main-controller/icons/main_icon.c -text
+main-controller/icons/room.bmp -text
+main-controller/icons/room_icon.c -text
+main-controller/list.c -text
+main-controller/list.h -text
 main-controller/main.c -text
+main-controller/rectangle.c -text
+main-controller/rectangle.h -text
 main-controller/touchscreen.c -text
 main-controller/touchscreen.h -text
