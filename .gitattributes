@@ -54,6 +54,8 @@ main-controller/icons/room_icon.c -text
 main-controller/list.c -text
 main-controller/list.h -text
 main-controller/main.c -text
+main-controller/main_window.c -text
+main-controller/main_window.h -text
 main-controller/menu_browser.c -text
 main-controller/menu_browser.h -text
 main-controller/rectangle.c -text
