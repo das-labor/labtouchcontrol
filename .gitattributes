@@ -33,6 +33,8 @@ lcd-controller/lcd_hardware.c -text
 lcd-controller/lcd_hardware.h -text
 lcd-controller/main.c -text
 main-controller/Makefile -text
+main-controller/adc.c -text
+main-controller/adc.h -text
 main-controller/backlight.c -text
 main-controller/backlight.h -text
 main-controller/calibrate_touch.c -text
