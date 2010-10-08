@@ -59,6 +59,7 @@ main-controller/icons/main.bmp -text
 main-controller/icons/main_icon.c -text
 main-controller/icons/room.bmp -text
 main-controller/icons/room_icon.c -text
+main-controller/lap_button.c -text
 main-controller/main.c -text
 main-controller/main_window.c -text
 main-controller/main_window.h -text
