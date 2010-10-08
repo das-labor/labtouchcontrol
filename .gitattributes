@@ -43,6 +43,7 @@ main-controller/can_handler.c -text
 main-controller/can_handler.h -text
 main-controller/config.h -text
 main-controller/dc_com.c -text
+main-controller/dc_com.h -text
 main-controller/gui_lib/graphics.h -text
 main-controller/gui_lib/gui.c -text
 main-controller/gui_lib/gui.h -text
@@ -63,5 +64,7 @@ main-controller/main_window.c -text
 main-controller/main_window.h -text
 main-controller/menu_browser.c -text
 main-controller/menu_browser.h -text
+main-controller/netvar/netvar.c -text
+main-controller/netvar/netvar.h -text
 main-controller/touchscreen.c -text
 main-controller/touchscreen.h -text
