@@ -44,15 +44,6 @@ main-controller/can_handler.h -text
 main-controller/config.h -text
 main-controller/dc_com.c -text
 main-controller/dc_com.h -text
-main-controller/gui_lib/graphics.h -text
-main-controller/gui_lib/gui.c -text
-main-controller/gui_lib/gui.h -text
-main-controller/gui_lib/gui_button.c -text
-main-controller/gui_lib/gui_container.c -text
-main-controller/gui_lib/list.c -text
-main-controller/gui_lib/list.h -text
-main-controller/gui_lib/rectangle.c -text
-main-controller/gui_lib/rectangle.h -text
 main-controller/icons/escape.bmp -text
 main-controller/icons/escape_icon.c -text
 main-controller/icons/main.bmp -text
