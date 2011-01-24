@@ -51,7 +51,5 @@ main-controller/main_window.c -text
 main-controller/main_window.h -text
 main-controller/menu_browser.c -text
 main-controller/menu_browser.h -text
-main-controller/netvar/netvar.c -text
-main-controller/netvar/netvar.h -text
 main-controller/touchscreen.c -text
 main-controller/touchscreen.h -text
