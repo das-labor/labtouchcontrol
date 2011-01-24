@@ -45,6 +45,7 @@ main-controller/config.h -text
 main-controller/dc_com.c -text
 main-controller/dc_com.h -text
 main-controller/lap_button.c -text
+main-controller/lap_button.h -text
 main-controller/main.c -text
 main-controller/main_window.c -text
 main-controller/main_window.h -text
