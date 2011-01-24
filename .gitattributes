@@ -44,12 +44,6 @@ main-controller/can_handler.h -text
 main-controller/config.h -text
 main-controller/dc_com.c -text
 main-controller/dc_com.h -text
-main-controller/icons/escape.bmp -text
-main-controller/icons/escape_icon.c -text
-main-controller/icons/main.bmp -text
-main-controller/icons/main_icon.c -text
-main-controller/icons/room.bmp -text
-main-controller/icons/room_icon.c -text
 main-controller/lap_button.c -text
 main-controller/main.c -text
 main-controller/main_window.c -text
