@@ -53,3 +53,5 @@ main-controller/menu_browser.c -text
 main-controller/menu_browser.h -text
 main-controller/touchscreen.c -text
 main-controller/touchscreen.h -text
+main-controller/util_lib/list.c -text
+main-controller/util_lib/list.h -text
