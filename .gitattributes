@@ -23,8 +23,6 @@ lcd-controller/fonts/font_small6.h -text
 lcd-controller/fonts/font_uni53.c -text
 lcd-controller/fonts/font_uni53.h -text
 lcd-controller/fuses.txt -text
-lcd-controller/graphics.c -text
-lcd-controller/graphics.h -text
 lcd-controller/hypnotoad.c -text
 lcd-controller/hypnotoad.h -text
 lcd-controller/hypnotoad_data.c -text
