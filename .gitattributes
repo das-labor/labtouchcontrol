@@ -1,6 +1,5 @@
 * text=auto !eol
 include/dc_commands.h -text
-include/icon.h -text
 lcd-controller/Makefile -text
 lcd-controller/bmp/hypnotoad1.bmp -text
 lcd-controller/com.c -text
