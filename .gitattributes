@@ -1,4 +1,6 @@
 * text=auto !eol
+button-controller/Makefile -text
+button-controller/main.c -text
 include/dc_commands.h -text
 lcd-controller/Makefile -text
 lcd-controller/bmp/hypnotoad1.bmp -text
