@@ -38,11 +38,11 @@ main-controller/backlight.c -text
 main-controller/backlight.h -text
 main-controller/calibrate_touch.c -text
 main-controller/calibrate_touch.h -text
-main-controller/can_handler.c -text
-main-controller/can_handler.h -text
 main-controller/config.h -text
 main-controller/dc_com.c -text
 main-controller/dc_com.h -text
+main-controller/hardware.c -text
+main-controller/hardware.h -text
 main-controller/lap_button.c -text
 main-controller/lap_button.h -text
 main-controller/lap_slider.c -text
