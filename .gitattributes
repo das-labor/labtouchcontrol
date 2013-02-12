@@ -3,6 +3,7 @@ button-controller/Makefile -text
 button-controller/main.c -text
 can-bootloader/Makefile -text
 can-bootloader/config.h -text
+can-bootloader/user.c -text
 include/dc_commands.h -text
 lcd-controller/Makefile -text
 lcd-controller/bmp/hypnotoad1.bmp -text
