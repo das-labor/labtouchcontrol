@@ -27,6 +27,8 @@ main-controller/adc.c -text
 main-controller/adc.h -text
 main-controller/backlight.c -text
 main-controller/backlight.h -text
+main-controller/buttons.c -text
+main-controller/buttons.h -text
 main-controller/calibrate_touch.c -text
 main-controller/calibrate_touch.h -text
 main-controller/config.h -text
