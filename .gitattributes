@@ -1,5 +1,6 @@
 * text=auto !eol
 button-controller/Makefile -text
+button-controller/config.h -text
 button-controller/main.c -text
 can-bootloader/Makefile -text
 can-bootloader/config.h -text
